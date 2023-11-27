@@ -1,7 +1,10 @@
-// import { registerValidation } from '@/validation/register.validation';
-import { Repository } from 'typeorm';
-import { registerValidation } from '../validation/register.validation';
 import { Request, Response } from 'express';
+import { createUser } from '../services/user.service';
+import { registerValidation } from '../validation/register.validation';
+
+export const userControllder = {
+  
+}
 
 const userRegister = async (req: Request, res: Response) => {
   const { body } = req;
@@ -11,13 +14,14 @@ const userRegister = async (req: Request, res: Response) => {
     return res.status(400).send(error.details);
   }
 
-  if (body.password !== body.passwordConfirm) {
-    return res.status(400).send({
-      message: 'ERROR :; Passwords do not match!'
-    });
+  const newUser = {
+    username: 'admin',
+    password: '1',
   }
 
-  // const { password, ...user } = await Repository.
+  const { password, ...data } = await createUser(newUser);
+  console.log(data, 'data....');
+  res.send('Hichic...');
 }
 
 const userLogin = (req: Request, res: Response) => {
@@ -25,7 +29,7 @@ const userLogin = (req: Request, res: Response) => {
 }
 
 const userLogout = (req: Request, res: Response) => {
-  console.log(req.body, 'userLogin......');
+  console.log(req.body, 'userLogout......');
 }
 
 const userDelete = (req: Request, res: Response) => {

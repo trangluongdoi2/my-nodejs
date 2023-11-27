@@ -165,3 +165,216 @@
 {"level":"info","message":"Server running at 3000","timestamp":"2023-11-21T16:25:06.963Z"}
 {"level":"info","message":"database connection created","timestamp":"2023-11-21T16:25:18.780Z"}
 {"level":"info","message":"Server running at 3000","timestamp":"2023-11-21T16:25:18.780Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-21T16:27:03.369Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-21T16:27:03.369Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-21T16:29:41.678Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-21T16:29:41.678Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-21T16:29:59.537Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-21T16:29:59.537Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-21T16:30:01.156Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-21T16:30:01.156Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-21T16:33:28.237Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-21T16:33:28.237Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-21T16:34:12.600Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-21T16:34:12.600Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-21T16:47:48.141Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-21T16:47:48.141Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-21T16:48:04.303Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-21T16:48:04.303Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-21T16:48:17.659Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-21T16:48:17.659Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-21T16:49:39.721Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-21T16:49:39.721Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-21T16:51:59.805Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-21T16:51:59.805Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-23T15:17:36.712Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-23T15:17:36.712Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-23T15:18:18.783Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-23T15:18:18.783Z"}
+{"level":"info","message":"Database connection failed with error Error: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol requested by server; consider upgrading MySQL client","timestamp":"2023-11-23T15:20:27.293Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-23T15:20:50.394Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-23T15:20:50.394Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-23T15:26:01.188Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-23T15:26:06.873Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-23T15:26:14.249Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-23T15:26:16.152Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-23T15:26:27.777Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-23T15:26:29.846Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-23T15:26:44.736Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-23T15:26:46.789Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-23T15:26:48.016Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-23T15:27:08.469Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-23T15:27:18.341Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-23T15:28:49.655Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-23T15:58:03.266Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-23T15:58:03.266Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-23T15:58:42.893Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-23T15:58:42.893Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-23T15:59:24.239Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-23T15:59:24.239Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-23T15:59:55.115Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-23T15:59:55.115Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-23T16:00:10.922Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-23T16:00:10.922Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-23T16:00:27.887Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-23T16:00:27.887Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-23T16:00:45.299Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-23T16:00:45.299Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-23T16:01:41.456Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-23T16:01:41.456Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-23T16:07:03.411Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-23T16:07:03.411Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-23T16:07:33.559Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-23T16:07:33.559Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-23T16:08:35.894Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-23T16:08:35.894Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-23T16:14:22.531Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-23T16:14:22.531Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-23T16:21:35.700Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-23T16:21:35.700Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-23T16:22:49.132Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-23T16:22:49.132Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-23T16:22:50.935Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-23T16:22:50.935Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-23T16:22:58.171Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-23T16:22:58.171Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-23T16:23:27.994Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-23T16:23:27.994Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-23T16:29:32.383Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-23T16:29:32.383Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-23T16:29:48.051Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-23T16:29:48.051Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-23T16:31:09.403Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-23T16:31:09.403Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-23T16:32:30.460Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-23T16:32:30.460Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-23T16:34:02.592Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-23T16:34:02.592Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-23T16:34:10.832Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-23T16:34:10.832Z"}
+{"level":"info","message":"Database connection failed with error QueryFailedError: ER_DUP_ENTRY: Duplicate entry '' for key 'user.IDX_e12875dfb3b1d92d7d7c5377e2'","timestamp":"2023-11-23T16:36:10.109Z"}
+{"level":"info","message":"Database connection failed with error QueryFailedError: ER_DUP_ENTRY: Duplicate entry '' for key 'user.IDX_e12875dfb3b1d92d7d7c5377e2'","timestamp":"2023-11-23T16:36:24.757Z"}
+{"level":"info","message":"Database connection failed with error QueryFailedError: ER_DUP_ENTRY: Duplicate entry '' for key 'user.IDX_e12875dfb3b1d92d7d7c5377e2'","timestamp":"2023-11-27T14:03:00.341Z"}
+{"level":"info","message":"Database connection failed with error QueryFailedError: ER_DUP_ENTRY: Duplicate entry '' for key 'user.IDX_e12875dfb3b1d92d7d7c5377e2'","timestamp":"2023-11-27T14:05:51.060Z"}
+{"level":"info","message":"Database connection failed with error QueryFailedError: ER_DUP_ENTRY: Duplicate entry '' for key 'user.IDX_e12875dfb3b1d92d7d7c5377e2'","timestamp":"2023-11-27T14:06:20.632Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-27T14:06:41.530Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-27T14:06:41.530Z"}
+{"level":"info","message":"Database connection failed with error QueryFailedError: ER_DUP_ENTRY: Duplicate entry '' for key 'user.IDX_e12875dfb3b1d92d7d7c5377e2'","timestamp":"2023-11-27T14:06:48.459Z"}
+{"level":"info","message":"Database connection failed with error QueryFailedError: ER_DUP_ENTRY: Duplicate entry '' for key 'user.IDX_e12875dfb3b1d92d7d7c5377e2'","timestamp":"2023-11-27T14:09:30.857Z"}
+{"level":"info","message":"Database connection failed with error QueryFailedError: ER_DUP_ENTRY: Duplicate entry '' for key 'user.IDX_e12875dfb3b1d92d7d7c5377e2'","timestamp":"2023-11-27T14:10:02.118Z"}
+{"level":"info","message":"Database connection failed with error QueryFailedError: ER_DUP_ENTRY: Duplicate entry '' for key 'user.IDX_e12875dfb3b1d92d7d7c5377e2'","timestamp":"2023-11-27T14:11:42.426Z"}
+{"level":"info","message":"Database connection failed with error QueryFailedError: ER_DUP_ENTRY: Duplicate entry '' for key 'user.IDX_e12875dfb3b1d92d7d7c5377e2'","timestamp":"2023-11-27T14:11:47.962Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-27T14:13:21.706Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-27T14:13:21.706Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-27T14:15:09.028Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-27T14:15:09.028Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-27T14:15:15.954Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-27T14:15:15.954Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-27T14:16:33.534Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-27T14:16:33.534Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-27T14:16:41.843Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-27T14:16:41.843Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-27T14:19:22.680Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-27T14:19:22.680Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-27T14:20:59.109Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-27T14:20:59.109Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-27T14:23:16.055Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-27T14:23:16.055Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-27T14:24:11.199Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-27T14:24:11.199Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-27T14:25:28.580Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-27T14:25:28.580Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-27T14:26:13.451Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-27T14:26:13.451Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-27T14:26:17.392Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-27T14:26:17.392Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-27T14:26:19.482Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-27T14:26:19.482Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-27T14:33:04.893Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-27T14:33:04.893Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-27T14:33:18.297Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-27T14:33:18.297Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-27T14:33:28.361Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-27T14:33:28.361Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-27T14:33:36.394Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-27T14:33:36.394Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-27T14:33:45.527Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-27T14:33:45.527Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-27T14:33:48.957Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-27T14:33:48.957Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-27T14:34:11.046Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-27T14:34:11.046Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-27T14:34:20.622Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-27T14:34:20.622Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-27T14:34:21.950Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-27T14:34:21.950Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-27T14:34:24.663Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-27T14:34:24.663Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-27T14:34:30.038Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-27T14:34:30.038Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-27T14:34:32.415Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-27T14:34:32.415Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-27T14:35:30.684Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-27T14:35:30.684Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-27T14:35:46.022Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-27T14:35:46.022Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-27T14:40:10.492Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-27T14:40:10.492Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-27T14:41:10.668Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-27T14:41:10.668Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-27T14:42:35.169Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-27T14:42:35.169Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-27T14:45:33.945Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-27T14:45:33.945Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-27T14:46:51.396Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-27T14:46:51.396Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-27T14:47:00.448Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-27T14:47:00.448Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-27T14:47:02.890Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-27T14:47:02.890Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-27T14:55:49.763Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-27T14:55:49.763Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-27T14:55:53.628Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-27T14:55:53.628Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-27T14:55:57.208Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-27T14:55:57.208Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-27T14:57:53.977Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-27T14:57:53.977Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-27T14:57:58.507Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-27T14:57:58.507Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-27T14:58:23.114Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-27T14:58:23.114Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-27T14:58:26.620Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-27T14:58:26.620Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-27T14:58:30.091Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-27T14:58:30.091Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-27T14:58:32.882Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-27T14:58:32.882Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-27T14:59:02.078Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-27T14:59:02.078Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-27T15:01:56.637Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-27T15:01:56.637Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-27T15:04:30.421Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-27T15:04:30.421Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-27T15:05:26.384Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-27T15:05:26.384Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-27T15:05:52.122Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-27T15:05:52.122Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-27T15:09:33.203Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-27T15:09:33.203Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-27T15:11:14.405Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-27T15:11:14.405Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-27T15:11:27.386Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-27T15:11:27.386Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-27T15:11:30.056Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-27T15:11:30.056Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-27T15:11:38.938Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-27T15:11:38.938Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-27T15:11:40.722Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-27T15:11:40.722Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-27T15:11:42.674Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-27T15:11:42.674Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-27T15:21:08.061Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-27T15:21:08.061Z"}
+{"level":"info","message":"database connection created","timestamp":"2023-11-27T15:24:45.123Z"}
+{"level":"info","message":"Server running at 3000","timestamp":"2023-11-27T15:24:45.123Z"}
