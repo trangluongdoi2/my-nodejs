@@ -1,5 +1,5 @@
-import appDataSource from "@/db-connector";
-import { User } from "@/entities/user.entities";
+import appDataSource from '@/db-connector';
+import { User } from '@/entities/user.entities';
 
 const authService = {
   createUser: async ({ userName, email, password }: Record<string, any>) => {
@@ -8,8 +8,8 @@ const authService = {
       const input = {
         userName,
         email,
-        password,
-      }
+        password
+      };
       return await repository.save(input);
     } catch (error) {
       return null;
@@ -31,10 +31,8 @@ const authService = {
   logout: () => {
     try {
       console.log('Logout user...');
-    } catch (error) {
-      
-    }
-  },
-}
+    } catch (error) {}
+  }
+};
 
 export default authService;

@@ -17,7 +17,7 @@ const MYSQL = {
   dbport: MYSQL_PORT,
   synchronize: true,
   logging: false,
-  entities: ['src/entities/*.ts'],
+  entities: ['src/entities/*.ts']
 };
 
 const SERVER_HOSTNAME = process.env.SERVER_HOSTNAME || 'localhost';

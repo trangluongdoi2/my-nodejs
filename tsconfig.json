@@ -1,34 +1,26 @@
 {
   "compilerOptions": {
-    "module": "commonjs",
     "esModuleInterop": true,
     "target": "es2020",
     "noImplicitAny": true,
     "moduleResolution": "node",
     "sourceMap": false,
-    // "resolveJsonModule": true,
+    "resolveJsonModule": true,
     "outDir": "dist",
-    "baseUrl": "src",
     "rootDir": "src",
+    "strict": true,
+    "strictPropertyInitialization": false,
     "experimentalDecorators": true,
     "emitDecoratorMetadata": true,
-    // "paths": {
-    //   "@/*": ["src/*"]
-    // },
+    "skipLibCheck": true,
+    "baseUrl": ".",
     "paths": {
-      "@/*": ["*"],
-    },
-    "lib": [
-      "es2020",
-      "es5",
-      "es6",
-      "dom",
-    ]
+      "@/*": ["src/*"]
+    }
   },
-  "include": ["src"],
-  "exclude": [
-    "node_modules",
-    "./node_modules",
-    "./node_modules/*",
-  ]
+  "ts-node": {
+    "require": ["tsconfig-paths/register"]
+  },
+  // "files": ["src/type.d.ts"],
+  "include": ["src/**/*"],
 }

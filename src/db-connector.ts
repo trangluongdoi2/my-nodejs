@@ -7,18 +7,18 @@ const PORT = process.env.PORT || 3000;
 
 // @ts-ignore
 const appDataSource = new DataSource(config.mysql);
-export const Manager = appDataSource.manager
+export const Manager = appDataSource.manager;
 
 appDataSource
-.initialize()
-.then(() => {
-  logger.info('database connection created');
-  app.listen(PORT, () => {
-    logger.info(`Server running at ${PORT}`);
+  .initialize()
+  .then(() => {
+    logger.info('database connection created');
+    app.listen(PORT, () => {
+      logger.info(`Server running at ${PORT}`);
+    });
+  })
+  .catch((error: Error) => {
+    logger.info(`Database connection failed with error ${error}`);
   });
-})
-.catch((error: Error) => {
-  logger.info(`Database connection failed with error ${error}`);
-})
 
 export default appDataSource;

@@ -8,7 +8,7 @@ const createUser = async (input: { username: string, password: string }) => {
   } catch (error) {
     return null;
   }
-}
+};
 
 const loginUser = async (input: Record<string, any>) => {
   const repository = appDataSource.getRepository(User);
@@ -17,10 +17,8 @@ const loginUser = async (input: Record<string, any>) => {
     //   email: input.email,
     // })
   } catch (error) {
-    
+    return null;
   }
-}
+};
 
-export {
-  createUser,
-}
+export { createUser };
