@@ -2,6 +2,7 @@ import { DataSource } from 'typeorm';
 import logger from './config/logger';
 import config from './config/config';
 import app from './config/express';
+import { User } from './entities/user.entities';
 
 const PORT = process.env.PORT || 3000;
 
@@ -12,7 +13,7 @@ export const Manager = appDataSource.manager;
 appDataSource
   .initialize()
   .then(() => {
-    logger.info('database connection created');
+    logger.info('Database connection created');
     app.listen(PORT, () => {
       logger.info(`Server running at ${PORT}`);
     });
@@ -22,3 +23,6 @@ appDataSource
   });
 
 export default appDataSource;
+
+export const userRepository = appDataSource.getRepository(User);
+// export const userQueryBuilder = userRepository.createQueryBuilder();

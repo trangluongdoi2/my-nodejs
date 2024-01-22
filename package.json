@@ -10,7 +10,8 @@
     "ext": ".ts,.js",
     "ignore": [],
     "exec": "npx ts-node ./src/index.ts",
-    "start:dev": "npx nodemon"
+    "build": "tsc -p tsconfig.json",
+    "dev": "npx nodemon"
   },
   "author": "",
   "license": "ISC",

@@ -4,3 +4,8 @@ interface Product {
   brandName: string[]
   images: string[]
 }
+
+interface Image {
+  id: string
+  url: string
+}

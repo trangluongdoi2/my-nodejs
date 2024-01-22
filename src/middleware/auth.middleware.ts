@@ -1,12 +1,14 @@
-import { NextFunction, Request } from 'express';
+import { NextFunction, Request, Response } from 'express';
 
 const authMiddleware = {
-  verifyAccessToken: async (req: any, res: Request, nex: NextFunction) => {
+  verifyAccessToken: async (req: Request, res: Response, next: NextFunction) => {
     console.log('verifyAccessToken....');
+    next();
   },
 
-  verifyRefreshToken: async (req: any, res: Request, nex: NextFunction) => {
+  verifyRefreshToken: async (req: Request, res: Response, next: NextFunction) => {
     console.log('verifyRefreshToken...');
+    next();
   }
 };
 

@@ -1,10 +1,10 @@
 import appDataSource from '@/db-connector';
 import bcrypt from 'bcrypt';
 import { User } from '@/entities/user.entities';
+import { userRepository } from '../db-connector';
 
 const authService = {
   createUser: async ({ username, email, password }: Record<string, any>) => {
-    const repository = appDataSource.getRepository(User);
     const salt = await bcrypt.genSalt(10);
     const hashPassword = await bcrypt.hash(password, salt);
     try {
@@ -13,7 +13,7 @@ const authService = {
         email,
         password: hashPassword
       };
-      return await repository.save(input);
+      return await userRepository.save(input);
     } catch (error) {
       return null;
     }

@@ -25,6 +25,10 @@ const userDelete = (req: Request, res: Response) => {
   console.log(req.body, 'userDelete......');
 };
 
+const userDeleteAll = (req: Request, res: Response) => {
+  console.log(userDeleteAll, 'userDeleteAll...');
+}
+
 export default {
   userRegister,
   userLogin,

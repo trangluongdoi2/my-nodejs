@@ -12,7 +12,7 @@ export class Product {
   @Column()
   nameBrand: string;
 
-  @OneToMany(() => ProductImage, (image) => image.product)
+  @OneToMany(() => ProductImage, (image) => image.productId)
   @JoinColumn()
   images: ProductImage[];
 }

@@ -29,6 +29,7 @@ module.exports = {
     '@typescript-eslint/prefer-nullish-coalescing': 'off',
     '@typescript-eslint/no-var-requires': 'off',
     '@typescript-eslint/consistent-type-exports': "off",
+    '@typescript-eslint/member-delimiter-style': 'error',
     'prettier/prettier': [
       'warn',
       {

@@ -9,6 +9,9 @@ export class ProductImage {
   @Column()
   src: string;
 
+  @Column()
+  productId: string;
+
   @ManyToOne(() => Product, (product) => product.images)
   product: Product;
 }
